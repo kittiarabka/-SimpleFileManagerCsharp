@@ -2,7 +2,7 @@
 домашка для проекта) 
 1.Установите .NET SDK. Используемые библиотеки: a.System : Для базовых операций. б.System.IO : Для работы с файловой системой (например, чтение, запись, удаление файлов и каталогов).
 
-2.Скопируйте репозиторий и откройте его в Visual Studio. а. git clone https://github.com/Polinarasulova/SimpleFileManagerCSharp.git
+2.Скопируйте репозиторий и откройте его в Visual Studio. а. git clone https://github.com/kittiarabka/-SimpleFileManagerCsharp
 
 3.Запустите программу с помощью команды: dotnet run
 
